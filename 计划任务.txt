@@ -1,6 +1,6 @@
 1 搭建MAVEN 基础工程	OK
 
-2 集成Spring MVC
+2 集成Spring MVC  OK
 
 3 创建登陆页面
 
