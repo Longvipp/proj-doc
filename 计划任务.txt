@@ -2,8 +2,16 @@
 
 2 集成Spring MVC  OK
 
-3 创建登陆页面
+3 创建登陆页面    --待优化样式
 
-4 搭建MyBatis数据库
+4 搭建MyBatis数据库  OK
 
-5搜集开发用例界面(图标库,经典UI样式等)
+5 搭建基础springSecurity权限管理   OK
+
+6 springSecurity 配置数据库资源    OK
+
+7 搜集开发用例界面(图标库,经典UI样式等)
+
+8 集成几个常用插件(ztree, echart等)
+
+9 集成调用python
